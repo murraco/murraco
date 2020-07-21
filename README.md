@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###I’m open to job proposals as a Full Stack Dev!
+### I’m open to job proposals as a Full Stack Dev!
 
 <!--
 **murraco/murraco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
