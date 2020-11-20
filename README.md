@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I’m open to job proposals!
+### I’m open to part-time job proposals!
 
 <!--
 **murraco/murraco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
