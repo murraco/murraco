@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :telescope: I’m open to relocation job proposals!
+- :telescope: I’m open to job proposals and relocation!
 - :seedling: Currently learning Django and Angular 8+
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=murraco&count_private=true&show_icons=true&hide=contribs,,issues)
