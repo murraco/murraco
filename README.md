@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- :telescope: I’m open to job proposals and relocation!
-- :seedling: Currently learning Django and Angular 8+
+- :hammer_and_wrench: Software Engineer [@GrapevineGiving](https://www.grapevine.org/)
+- :seedling: Currently improving my Django and Angular skills
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=murraco&count_private=true&include_all_commits=true&show_icons=true&hide=contribs,,issues)
 
