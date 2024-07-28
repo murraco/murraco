@@ -7,10 +7,6 @@
 
 :envelope: Contact me at mauriurraco@gmail.com
 
-### If you find my projects helpful, a coffee would be greatly appreciated!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/murraco)
-
 <!--
 **murraco/murraco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
