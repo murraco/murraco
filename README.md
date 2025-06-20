@@ -2,7 +2,7 @@
 
 - :hammer_and_wrench: Software Engineer [@Grapevine](https://www.grapevine.org/)
 - :seedling: Currently improving my Django and Angular skills
-- :mailbox: Open to side-projects and gigs
+- :mailbox: Open to gigs
 
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=murraco&include_all_commits=true&show_icons=true&hide=contribs,,issues) -->
 
