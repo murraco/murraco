@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-- :hammer_and_wrench: Software Engineer [@Grapevine](https://www.grapevine.org/)
-- :seedling: Currently improving my Django and Angular skills
-- :mailbox: Open to gigs
+- 🛠️ Software Engineer [@Grapevine](https://www.grapevine.org/)
+- 🧱 Building reliable systems with Django & Angular
+- 🤖 Catching up with the AI wave — exploring LLMs, Claude Code, and AI-assisted workflows
+- 🔎 Focused on pragmatism, clarity, and continuous improvement
+- 💬 Open to freelance and collaboration opportunities
+
+Always happy to connect — mauriurraco@gmail.com
 
 <!-- ![My GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=murraco&include_all_commits=true&show_icons=true&hide=contribs,,issues) -->
-
-:envelope: Contact me at mauriurraco@gmail.com
 
 <!--
 **murraco/murraco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
