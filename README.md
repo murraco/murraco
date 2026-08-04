@@ -17,11 +17,12 @@ Always happy to connect — mauriurraco@gmail.com
 I'm a Software Engineer with ~10 years of experience designing and building web applications end-to-end.
 
 - 🛠️ Software Engineer [@Grapevine](https://www.grapevine.org/) (early engineer, working closely with product & CTO)
-- 🧱 Building reliable systems across backend, frontend, and infrastructure
+- 🧱 Backend-leaning, but comfortable anywhere between the browser and the database
 - ⚙️ Main stack: Python (Django), TypeScript, Angular, PostgreSQL
 - 🚀 Experience taking products from idea to production, with a focus on performance and maintainability
-- 🤖 Exploring applied AI: LLMs, Claude Code, and developer productivity workflows
-- 🔎 Pragmatic mindset: I value clarity, simple solutions, and fast iteration
+- 🤖 Exploring applied AI: LLMs, RAG, and AI-assisted development workflows
+<!-- - 🧱 Building reliable systems across backend, frontend, and infrastructure -->
+<!-- - 🧱 Backend-leaning, but small teams don't let you specialise: I go where the product needs me -->
 
 ### 🧠 How I work
 
