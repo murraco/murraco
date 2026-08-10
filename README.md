@@ -14,7 +14,7 @@ Always happy to connect — mauriurraco@gmail.com
 
 ## Hi there 👋
 
-I'm a Software Engineer with ~10 years of experience designing and building web applications end-to-end.
+I'm a Software Engineer with ~10+ years of experience building across the stack.
 
 - 🛠️ Software Engineer [@Grapevine](https://www.grapevine.org/) (early engineer, working closely with product & CTO)
 - 🧱 Backend-leaning, but comfortable anywhere between the browser and the database
